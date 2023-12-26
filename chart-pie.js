@@ -11,7 +11,7 @@ var myPieChart = new Chart(ctx, {
     datasets: [{
       //  Gets the data from box2.php
       data: [notsend, send],
-      backgroundColor: ['#dc3545', '#007bff'],
+      backgroundColor: ['#dc3545', '#198754'],
       hoverBorderColor: "rgba(234, 236, 244, 1)",
     }],
   },
